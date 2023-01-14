@@ -1,2 +1,2 @@
-# CM-3
- 
+# Cognitive Modelling
+Assigment 3
